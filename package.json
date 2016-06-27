@@ -1,0 +1,22 @@
+{
+  "name": "currying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkdo/Currying.git"
+  },
+  "author": "Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkdo/Currying/issues"
+  },
+  "homepage": "https://github.com/clarkdo/Currying#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^9.0.1"
+  }
+}
